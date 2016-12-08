@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 déc. 2016, 14:08:01
+    Author     : vanel
+*/
+* {
+    text-align: center;
+}
+
+div#date_saint p {
+    
+    
+  font-size: medium;  
+    
+}
+div#quote_of_the_day p {
+    
+    font-weight: bold;
+    font-style: italic;
+    
+}
+div#custom_advice_jarditou p {
+    
+    font-style: italic;
+    
+}
